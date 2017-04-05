@@ -1,0 +1,23 @@
+html {
+	background:url('../img/background.jpg');
+	background-repeat: none;
+	background-size: cover;
+}
+
+
+#clock {
+	font-family: 'Revalia', cursive;
+	color: #7f7f7f;
+	font-size: 100px;
+	text-align: center;
+	margin-top: 8%;
+} 
+
+#banner h1 {
+	font-family: 'Orbitron', sans-serif;
+	animation: fadeInUp 3s;
+	color: #7f7f7f;
+	text-align: center;
+	font-size: 35px;
+	margin-top: 5%;
+}
